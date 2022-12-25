@@ -1,0 +1,85 @@
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.exe
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.deps.json
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.runtimeconfig.json
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.pdb
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.AssemblyReference.cache
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.Form1.resources
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.GenerateResource.cache
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.AssemblyInfoInputs.cache
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.AssemblyInfo.cs
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.CoreCompileInputs.cache
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\refint\NoteTakingAppFinal.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.pdb
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.genruntimeconfig.cache
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\ref\NoteTakingAppFinal.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Error404\source\repos\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.CopyComplete
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\refint\NoteTakingAppFinal.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.pdb
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.exe
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.deps.json
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.runtimeconfig.json
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.pdb
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.AssemblyReference.cache
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.Form1.resources
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.GenerateResource.cache
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.GeneratedMSBuildEditorConfig.editorconfig
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.AssemblyInfoInputs.cache
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.AssemblyInfo.cs
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.CoreCompileInputs.cache
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.CopyComplete
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.genruntimeconfig.cache
+F:\PC Backup - 11122022\C# Apps\NoteTakingAppFinal\obj\Debug\net6.0-windows\ref\NoteTakingAppFinal.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.exe
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.deps.json
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.runtimeconfig.json
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.pdb
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.AssemblyReference.cache
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.Form1.resources
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.GenerateResource.cache
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.AssemblyInfoInputs.cache
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.AssemblyInfo.cs
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.CoreCompileInputs.cache
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.csproj.CopyComplete
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\refint\NoteTakingAppFinal.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.pdb
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\NoteTakingAppFinal.genruntimeconfig.cache
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\obj\Debug\net6.0-windows\ref\NoteTakingAppFinal.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\NoteTakingAppFinal.dll.config
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\jalapenno12\Desktop\Development\DevProjects\NoteTakingAppFinal\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
